@@ -1,0 +1,12 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document url("https://www.mozilla.org/en-US/firefox/new/?utm_source=firefox-com&utm_medium=referral") {
+
+  
+ #newsletter-subscribe .form-title {
+    background-image: none;
+  }
+  
+  
+  
+}
